@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.scss';
-import "bootstrap/dist/js/bootstrap.bundle";
+import 'bootstrap/dist/js/bootstrap.bundle';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import BaseScreen from './screens/BaseScreen';
 import HomeScreen from './screens/HomeScreen';
